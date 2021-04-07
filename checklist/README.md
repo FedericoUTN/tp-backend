@@ -9,7 +9,7 @@
 |Listado simple|1|1| Tipo de Propiedades |
 |Listado complejo obligatorio|1|2| Departamentos |
 |Listado adicional con filtro|0|0|  |
-|Detalle básico|1(*)|2(*)| Usuario y Departamentos
+|Detalle básico|1(*)|2(*)| Usuarios 
 |Detalle parametrizable|0|0|
 |Otros|0|0|
 
