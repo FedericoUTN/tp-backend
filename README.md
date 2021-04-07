@@ -119,7 +119,7 @@ Luego de la defensa el resultado puede ser:
 
 [checklist]: ./checklist/README.md
 
-## 4 - Modelo del sistema
+## 4 - Modelo de negocio
 
 ### 4.1 - Descripción del sistema
 
