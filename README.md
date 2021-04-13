@@ -134,3 +134,4 @@ El sistema a desarrollar permitirá al usuario seleccionar un tipo de inmueble a
   * 41886 - Federico Vallejo
 
 ### 4.4 - Modelo de dominio
+![alt text](https://i.ibb.co/yybB4xv/Modelado-1.png)
