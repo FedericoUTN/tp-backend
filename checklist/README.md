@@ -9,7 +9,7 @@
 |Listado simple|1|1| Listado de provincias <br/>Listado de ciudades |
 |Listado complejo obligatorio|1|2| Listado de Departamentos y Casas disponibles en una ciudad |
 |Listado adicional con filtro|0|0| Listado de propiedades por precio |
-|Detalle básico|1(*)|2(*)| Usuarios, Contratos
+|Detalle básico|1(*)|2(*)| Detalle de Contratos <br/>Detalle de Propiedades
 |Detalle parametrizable|0|0|
 |Otros|0|0|
 
