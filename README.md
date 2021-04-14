@@ -125,13 +125,12 @@ Luego de la defensa el resultado puede ser:
 
 El sistema a desarrollar permitirá al usuario seleccionar un tipo de inmueble a comprar y/o alquilar que esté buscando. El sistema muestra una lista de provincias que luego, el usuario tiene que seleccionar la provincia para la cual se realizará la búsqueada. El sistema mostrará una lista de las ciudades de la provincia seleccionada y el usuario seleccionará la ciudad que desee para centrar la búsqueda. Luego, el sistema finalmente obtiene una lista de los inmuebles de la ciudad seleccionada. El usuario tendrá la opción de generar un mapa para visualizar la ubicación gráfica de los inmuebles disponibles de dicha ciudad. 
 
-### 4.2 - Funcionalidad
-
-### 4.3 - Miebros del equipo
+### 4.2 - Miebros del equipo
 
   * 43912 - Arias Ramiro
   * 44777 - Caramuto Ignacio
   * 41886 - Federico Vallejo
 
-### 4.4 - Modelo de dominio
+### 4.3 - Modelo de dominio
+
 ![alt text](https://i.ibb.co/yybB4xv/Modelado-1.png)
