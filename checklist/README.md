@@ -7,9 +7,9 @@
 |ABMC simple|1 x integ|1 x integ| ABMC Usuario |
 |ABMC dependiente|1|2| ABMC Departamento y Cochera |
 |Listado simple|1|1| Tipo de Propiedades |
-|Listado complejo obligatorio|1|2| Departamentos |
+|Listado complejo obligatorio|1|2| Departamentos, Ciudad(con propiedades disponibles) |
 |Listado adicional con filtro|0|0|  |
-|Detalle básico|1(*)|2(*)| Usuarios 
+|Detalle básico|1(*)|2(*)| Usuarios, Contratos
 |Detalle parametrizable|0|0|
 |Otros|0|0|
 
