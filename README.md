@@ -123,7 +123,7 @@ Luego de la defensa el resultado puede ser:
 
 ### 4.1 - Descripción del sistema
 
-El sistema a desarrollar permitirá al usuario seleccionar un tipo de inmueble a comprar y/o alquilar que esté buscando. El sistema muestra una lista de provincias que luego, el usuario tiene que seleccionar la provincia para la cual se realizará la búsqueada. El sistema mostrará una lista de las ciudades de la provincia seleccionada y el usuario seleccionará la ciudad que desee para centrar la búsqueda. Luego, el sistema finalmente obtiene una lista de los inmuebles de la ciudad seleccionada. El usuario tendrá la opción de generar un mapa para visualizar la ubicación gráfica de los inmuebles disponibles de dicha ciudad. 
+El sistema a desarrollar permitirá al usuario seleccionar un tipo de inmueble a comprar y/o alquilar que esté buscando. El sistema muestra una lista de provincias que luego, el usuario tiene que seleccionar la provincia para la cual se realizará la búsqueada. El sistema mostrará una lista de las ciudades de la provincia seleccionada y el usuario seleccionará la ciudad que desee para centrar la búsqueda. Luego, el sistema finalmente obtiene una lista de los inmuebles de la ciudad seleccionada. El usuario tendrá la opción de generar un mapa para visualizar la ubicación gráfica de los inmuebles disponibles de dicha ciudad. El usuario podrá elegir la propiedad que más le guste para alquilar o comprar según cómo esté disponible el inmueble.
 
 ### 4.2 - Miebros del equipo
 
