@@ -133,4 +133,4 @@ El sistema a desarrollar permitirá al usuario seleccionar un tipo de inmueble a
 
 ### 4.3 - Modelo de dominio
 
-![alt text](https://i.ibb.co/yybB4xv/Modelado-1.png)
+![alt text](https://i.ibb.co/n0tTPV6/Modelado-2.png)
