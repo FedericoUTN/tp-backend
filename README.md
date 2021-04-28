@@ -129,7 +129,7 @@ El sistema a desarrollar permitirá al usuario seleccionar un tipo de inmueble a
 
   * 43912 - Arias Ramiro
   * 44777 - Caramuto Ignacio
-  * 41886 - Federico Vallejo
+  * 41886 - Vallejo Federico 
 
 ### 4.3 - Modelo de dominio
 
